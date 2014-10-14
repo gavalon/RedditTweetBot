@@ -5,3 +5,6 @@ it crawled the New posts in /r/nba looking for links to tweets. It then commente
 some basic stats concerning the success of posts for the tweeter linked. 
 The idea was to show the credibility of the tweeters linked, as there were many
 links to tweets during this time period, and not all were reliable.
+
+FYI: This was my first experience with python, so the style is absolutely horrible. 
+      Just know that it functioned quite well
